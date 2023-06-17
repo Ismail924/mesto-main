@@ -6,6 +6,6 @@
 
 ## ссыылка на сайт
 
-https://aquila062.github.io/mesto/
+(https://ismail924.github.io/mesto-main/)
 
 
